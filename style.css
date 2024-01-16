@@ -242,7 +242,7 @@ main {
 
 }
 
-.grid-contant{
+.grid-contant {
     margin-top: 50px;
 }
 
@@ -261,4 +261,60 @@ main {
     font-weight: 400;
     margin: 0 auto;
     padding-top: 24px;
+}
+
+
+
+.imagess-first {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.maldiv img {
+    width: 615px;
+}
+
+
+.indonesia img {
+    width: 615px;
+}
+
+
+.imagess-second {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.north-america img {
+    width: 474px;
+}
+
+.srilanka img {
+    width: 374px;
+}
+
+.kashmir img {
+    width: 374px;
+    height: 286px;
+}
+
+
+.images-third {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+.bangladesh img {
+    width: 573px;
+    height: 300px;
+
 }
