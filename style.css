@@ -318,3 +318,98 @@ main {
     height: 300px;
 
 }
+
+
+.contant-title {
+    color: #131318;
+    text-align: center;
+    font-size: 50px font-weight: 800;
+}
+
+
+.contant-des {
+    color: rgba(19, 19, 24, 0.70);
+    width: 600px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 auto;
+}
+
+
+.section-contant {
+    margin-top: 50px;
+}
+
+.box-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.box-one {
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    width: 50%;
+
+    /* padding-top: 110px; */
+}
+
+
+.box-two {
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+    width: 50%;
+    /* padding-top: 110px; */
+
+}
+
+.box-one img {
+    width: 64px;
+    height: 64px;
+}
+
+
+.box-two img {
+    width: 64px;
+    height: 64px;
+}
+
+.box-three {
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    width: 50%;
+    margin: 0px auto;
+    margin-top: 20px;
+
+
+}
+
+
+.box-three  img{
+    width: 64px;
+    height: 64px;
+}
+
+.box-des{
+    width: 480px;
+}
+
+.box-all-contant{
+    padding: 33px;
+}
+
+
+.box-des{
+    padding-top: 15px;
+}
